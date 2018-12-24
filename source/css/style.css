@@ -289,11 +289,13 @@ th {
     font-weight: lighter;
     margin-right: 21px;
     margin-bottom: 0;
+    color: #171717;
   }
   .page-header__title {
     font-size: 28px;
     line-height: 30px;
     text-align: center;
+    color: #242424;
   }
   .page-header__blocks {
     display: -webkit-box;
@@ -431,6 +433,7 @@ th {
           transform: translateX(-50%);
   margin-top: 40px;
   margin-bottom: 18px;
+  color: #171717;
 }
 .investment__blocks {
   display: -webkit-box;
@@ -531,6 +534,7 @@ th {
   line-height: 19px;
   width: 100%;
   margin-top: 21px;
+  color: #1c1c1c;
 }
 .investment__description br {
   display: none;
@@ -540,6 +544,7 @@ th {
   line-height: 30px;
   margin-top: 10px;
   padding-left: 1%;
+  color: #171717;
 }
 .investment__element {
   font-size: 32px;
@@ -576,6 +581,7 @@ th {
       -ms-flex-align: start;
           align-items: flex-start;
   width: 90%;
+  color: #1d1d1d;
 }
 .investment__next {
   display: none;
@@ -615,6 +621,7 @@ th {
     font-size: 28px;
     line-height: 30px;
     text-align: center;
+    color: #2e2e2e;
   }
   .investment__blocks {
     -webkit-box-orient: horizontal;
